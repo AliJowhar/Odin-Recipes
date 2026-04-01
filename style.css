@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    /* display: block; */
 }
 
 .Main_page_title {
@@ -30,8 +31,17 @@
     background-color: rgb(83, 83, 83);
 }
 
-.wrapper_main_food_display {
+
+.wrapper_main_food_display a {
     display: flex;
     flex-direction: column;
     padding:10px;
+    list-style: none;
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
 }
+
+
