@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Main_page_title {
+    text-align: center;
+    font-family:sans-serif, Arial, Helvetica;
+    font-weight: 900;
+}
+
